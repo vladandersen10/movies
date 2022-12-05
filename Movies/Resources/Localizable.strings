@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Movies
+
+  Created by Vladislav on 01.12.2022.
+  
+*/
+
+"movie_list_navigation_title" = "🍿 Movies";
+"movie_list_search_placeholder" = "Search";
+
+"movie_detail_rating_label" = "%.1f🏆";
+"movie_detail_overview_title" = "Overview";
+"movie_detail_cast_title" = "Cast";
